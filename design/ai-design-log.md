@@ -60,4 +60,4 @@ Ghi chú: dòng 4 và 8 xóa nếu khi cuộn xuống thấy Stitch đã có s�
 - Ảnh trước / sau: screenshots/r3-before-*.png, r3-after-*.png
 - Critique sau khi xem kết quả: [Điền]
 - Quyết định và lý do: [Điền] Gợi ý: Reject phần Telegram/email vì ngoài phạm vi.
-- Thay đổi tương ứng trong Figma: [Điền] Component Dialog, Loading, Empty, Error trong page 05; frame trạng thái trong page 03; nhánh lỗi trong prototype page 06.
+- Thay đổi tương ứng trong Figma: [Điền] Component Dialog, Loading, Empty, Error trong page 05; frame trạng thái trong page 03; nhánh lỗi trong prototype page 06.git 
